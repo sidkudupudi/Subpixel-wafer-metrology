@@ -1,0 +1,5 @@
+wafer,mean,std,median,max
+Logic,0.0263,0.0185,0.0238,0.1071
+DRAM array,0.0151,0.0069,0.0153,0.032
+Overlay reticle,0.0347,0.0185,0.0305,0.0906
+Power / MEMS,0.0856,0.0385,0.0797,0.1887
